@@ -1,0 +1,18 @@
+{
+  "name": "tapestry-cloud/skeleton-plugin",
+  "description": "Skeleton Example Plugin for Tapestry",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Simon Dann",
+      "email": "simon.dann@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "TapestryCloud\\Skeleton\\": "src"
+    }
+  }
+}
